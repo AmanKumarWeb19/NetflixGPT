@@ -15,6 +15,7 @@ const Header = () => {
   const dispatch = useDispatch();
 
   const handleSignOut = () => {
+    console.log("im clicked");
     signOut(auth)
       .then(() => {})
       .catch((error) => {
