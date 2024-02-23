@@ -2,7 +2,10 @@ import React from 'react'
 
 const GptSearch = () => {
   return (
-    <div>GptSearch</div>
+    <div>
+      GPT Serach Bar
+      GPT MOVIE SUGGESSTION
+    </div>
   )
 }
 
