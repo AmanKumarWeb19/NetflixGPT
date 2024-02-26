@@ -44,7 +44,7 @@ Before starting, ensure you have set up your .env file with the necessary API ke
 - src/utils: Utility functions and constants used across the project.
 
 ## Deployment
-This project is deployed and accessible at: Netflix GPT Deployment
+This project is deployed and accessible at: https://netflixgpt-27f3f.web.app/
 
 ## To deploy the app to production:
 
