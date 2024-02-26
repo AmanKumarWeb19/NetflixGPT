@@ -59,7 +59,7 @@ This project is deployed and accessible at: https://netflixgpt-27f3f.web.app/
 - Implemented redirects to ensure users are directed to the appropriate pages based on authentication status.
 - Enhanced performance with memoization and optimized API calls.
 - Made the site responsive for seamless browsing on various devices.
-- 
+  
 ## Technologies Used:
 - React
 - Redux
