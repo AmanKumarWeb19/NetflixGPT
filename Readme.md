@@ -69,9 +69,13 @@ This project is deployed and accessible at: https://netflixgpt-27f3f.web.app/
 - OpenAI API
 
 ## Contributors
+## Aman Kumar
 
-[Aman Kumar]
-License
+## Contact:
+- Email Id:- akgupta0524@gmail.com
+- Linkedin :- https://www.linkedin.com/in/aman-kumar-1a3047194/
+
+## License
 This project is licensed under the MIT License.
 
 Feel free to customize this template further to suit your needs. Happy coding!
