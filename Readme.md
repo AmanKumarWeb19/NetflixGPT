@@ -29,7 +29,7 @@ Before starting, ensure you have set up your .env file with the necessary API ke
 ## Clone the repository:
 
 ## bash:
-- git clone <repository_url>
+- git clone <https://github.com/AmanKumarWeb19/NetflixGPT.git>
 
 ## Install dependencies:
 - npm install
