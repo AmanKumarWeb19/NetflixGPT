@@ -69,6 +69,7 @@ This project is deployed and accessible at: https://netflixgpt-27f3f.web.app/
 - OpenAI API
 
 ## Contact:
+- Mobile No. :- 6202378933
 - Email Id:- akgupta0524@gmail.com
 - Linkedin :- https://www.linkedin.com/in/aman-kumar-1a3047194/
 
