@@ -75,5 +75,4 @@ This project is deployed and accessible at: https://netflixgpt-27f3f.web.app/
 
 ## License
 This project is licensed under the MIT License.
-
-Feel free to customize this template further to suit your needs. Happy coding!
+Happy coding!
